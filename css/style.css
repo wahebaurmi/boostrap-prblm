@@ -1,0 +1,118 @@
+*{
+	margin: 0px;
+	padding:0px;
+}
+.container{
+	margin-top: 20px;
+
+
+}
+
+.row{
+	height: 70px;
+}
+.row a{
+	color: black;
+	font-size: 20px;
+	text-decoration: none;
+
+}
+
+/*banner section*/
+.banner{
+	width: 100%;
+	float: left;
+	background: url(../img/banner.png)no-repeat;
+	background-size: cover; 
+}
+.banner-main{
+	width:60%;
+	margin:0 auto;
+	padding-top:150px;
+	text-align: center;
+	 
+}
+.banner-main h1{
+	color: white;
+    font-size: 120px;
+    font-family: "Lato", sans-serif;
+    text-transform: uppercase;
+	font-family: "Lato", sans-serif;
+}
+.banner-main span{
+	border-bottom: 2px solid #15a4fa;
+    display: block;
+    width: 600px;
+    margin: 0 auto;
+    margin-bottom: 20px;
+
+}
+.banner-main p{
+	color: white;
+    font-size: 20px;
+    margin-bottom: 40px;
+
+
+}
+.banner-btn{
+	padding: 10px 25px;
+    color: white;
+    font-size: 20px;
+    background: transparent;
+    border: 1px solid #15a4fa;
+    margin:10% auto;
+    transition: 0.4s ease-in-out;
+   
+}
+.banner-btn:hover{
+	background: blue;
+}
+
+.banner-icon{
+	color: blue;
+    text-align: center;
+    margin-bottom: 20px;
+    font-size: 20px;
+}
+
+
+.fa.fa-chevron-down{
+	transition: 0.4s ease-in-out;
+	text-align: center;
+}
+.fa.fa-chevron-down:hover{
+	background: blue;
+}
+.service1{
+	width: 100%;
+    float: left;
+    background-color: #F6F9F9;
+
+}
+.service-title{
+	width: 100%;
+    margin: 0 auto;
+    padding: 10px 10px;
+    text-align: center;
+    margin: 30px 20px;
+}
+.service-title h2{
+	color: black;
+	text-align: center;
+	padding: 25px 0px;
+	font-size: 30px;
+	margin-bottom: 15px;
+	font-family: "Lato", sans-serif;
+}
+.service-title p{
+	color: #897c7c;
+	text-align: center;
+	font-family: "Lato", sans-serif;
+}
+
+
+
+
+
+
+
